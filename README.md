@@ -17,15 +17,11 @@ Easy To Deploy 🤗
 3) Heroku-da Tətbiq yaradın və Heroku-nu Github Repozitoriyanızla birləşdirin,
 4) Repozitoriyanıza Manual Yerləşdirmə.
 ```
-## Deploying
-Deploy via Heroku.
-<p>
-  <a href="https://heroku.com/deploy?template=https://github.com/DegGixM/SongPlayBot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
-</p>
+[ ! [ Deploy ] (https://www.herokucdn.com/deploy/button.svg) ] (https://heroku.com/deploy?template=https://github.com/DegGixM/SongPlayBot)
 
 
 
-![logo](https://te.legra.ph/file/dd2b6978d1d8fc631b674.mp4)
+![logo](https://te.legra.ph/file/be559ace3fe2b387dec9a.jpg)
 # Telegramda Mənə çatın [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](###)
 
 # İstənilən Səhv və ya Yardım Əlaqəsini bildirin :
