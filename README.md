@@ -17,7 +17,7 @@ Easy To Deploy 🤗
 3) Heroku-da Tətbiq yaradın və Heroku-nu Github Repozitoriyanızla birləşdirin,
 4) Repozitoriyanıza Manual Yerləşdirmə.
 ```
-[![ Deploy ] (https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DegGixM/SongPlayBot)(img src="https://www.herokucdn.com/deploy/button.svg")
+[![ Deploy ] (img src="https://www.herokucdn.com/deploy/button.svg")](https://heroku.com/deploy?template=https://github.com/DegGixM/SongPlayBot)
 
 
 
