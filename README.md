@@ -1,27 +1,29 @@
-# SongPlayRoBot
+# SongPlayBot
 
-📺 YouTube Song Downloader Bot For Telegram 🔮
+📺 Telegram üçün YouTube Mahnı Yükləmə Botu 🔮
 
-3X Fast Telethon Based Bot ⚜
+3X Sürətli Telemarafon Əsaslı Bot ⚜
 
-Open Source Bot 👨🏻‍💻
+Açıq Mənbəli Bot 👨🏻‍💻Yerləşdirin
 
 Demo : [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongProBot)
 
 Easy To Deploy 🤗
 
-## 💡 Deploy This Bot To Heroku ❓️
+## 💡 Bu Botu Herokuya yerləşdirin ❓️
 ```
-1) Fork The Repository,
-2) Edit config.py And Add Values API_ID, API_HASH And Your Bot Token,
-3) Create An App On Heroku And Connect Heroku With Your Github Repository, 
-4) Manual Deploy To Your Repository. 
+1) Anbarı çəngəlləyin,
+2) config.py-ni redaktə edin və API_ID, API_HASH və Bot Tokeninizi əlavə edin,
+3) Heroku-da Tətbiq yaradın və Heroku-nu Github Repozitoriyanızla birləşdirin,
+4) Repozitoriyanıza Manual Yerləşdirmə.
 ```
-![logo](https://telegra.ph/file/9d337b3414bbf8e39ba79.jpg)
-# Reach Me On Telegram [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](https:t.me/SongProBot)
+[![ Deploy ] (https://www.herokucdn.com/deploy/button.svg) ](https://heroku.com/deploy?template=https://github.com/DegGixM/SongPlayBot)
 
-# Report Any Error or Help Contact :
-[Channel 💬](https://t.me/TamilBots), 
-[Support ❤️](https://t.me/TamilSupport) 
+![logo](https://te.legra.ph/file/dd2b6978d1d8fc631b674.mp4)
+# Telegramda Mənə çatın [🎸𝐒𝐨𝐧𝐠 𝐏𝐥𝐚𝐲 𝐁𝐨𝐭🎶](###)
 
-Report your problem along with your name to This Person 📲 [iMvEtRi🧑‍💻](https://t.me/iMvEtRi) 😪
+# İstənilən Səhv və ya Yardım Əlaqəsini bildirin :
+[Kanal 💬](https://t.me/DejavuSupport), 
+[Dəstək ❤️](https://t.me/DejavuGurup) 
+
+Probleminizi adınızla birlikdə Bu şəxsə bildirin 📲 [MUCVE](https://t.me/MUCVE_M) 😪
